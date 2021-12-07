@@ -19,3 +19,14 @@ As part of this course, we were required to make demonstration videos and
 upload them to YouTube. Links to each video can be found in the corresponding
 lab report. Alternatively, all of the videos are aggregated in this
 [playlist](https://youtube.com/playlist?list=PLHGC6tiqj9YeWhFn8-0g3_L5TKjtcy5Z4)
+
+## List of Lab Titles
+Lab 01 - Vivado SDK IP Integrator
+Lab 02 - Task Management in FreeRTOS
+Lab 03 - Vivado AXI Interrupt
+Lab 04 - Vivado AXI Timer and Interrupts
+Lab 05 - Timeslicing Scheduling in FreeRTOS
+Lab 06 - AD1Pmod and DA2Pmod in FreeRTOS
+Lab 07 - FIR Digital Filter
+Lab 08 - FreeRTOS Software Timer
+Lab 09 - IP in Vivado HDL
